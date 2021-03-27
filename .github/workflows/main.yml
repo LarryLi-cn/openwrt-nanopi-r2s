@@ -11,7 +11,7 @@ on:
     branches:
       - openwrt-21.02
   schedule:
-    - cron: '00 18 * * *'
+    - cron: '00 17 * * *'
   watch:
     types: [started]
 
